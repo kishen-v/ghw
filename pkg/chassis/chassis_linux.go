@@ -3,6 +3,9 @@
 // See the COPYING file in the root project directory for full text.
 //
 
+//go:build !ppc64le
+// +build !ppc64le
+
 package chassis
 
 import (

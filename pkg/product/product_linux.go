@@ -1,3 +1,6 @@
+//go:build !ppc64le
+// +build !ppc64le
+
 // Use and distribution licensed under the Apache license version 2.
 //
 // See the COPYING file in the root project directory for full text.
